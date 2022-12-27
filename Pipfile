@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyinstaller = "*"
+pysimplegui = "*"
+numpy = "*"
+ffmpeg = "*"
+
+[dev-packages]
+pyinstaller = "*"
+pysimplegui = "*"
+numpy = "*"
+ffmpeg = "*"
+
+[requires]
+python_version = "3.10"

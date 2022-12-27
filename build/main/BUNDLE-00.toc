@@ -1,0 +1,3 @@
+([('main',
+   '/Users/peterhuggins/Downloads/AudioMixerThing/dist/main',
+   'EXECUTABLE')],)
